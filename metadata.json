@@ -1,0 +1,7 @@
+{
+  "name": "Global Data Collection Studio",
+  "description": "World Bank Open Data quantitative research collection workflow: DEFINE, COLLECT, CLEAN, QUALITY CHECK, and EXPORT with panel diagnostics and code generators.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
